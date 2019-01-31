@@ -1,0 +1,5 @@
+-lopengl32
+-lfreeglut
+-lglut32
+
+ntu.edu.sg tutorias
